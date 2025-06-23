@@ -1,0 +1,6 @@
+dedup_model.pkl
+*.csv
+__pycache__/*
+data/*
+faces/*
+venv/*
